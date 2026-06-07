@@ -3,4 +3,5 @@
 
 # Aplikacja Budżetowa
 Autor: Mateusz Nalepka
+
 Projekt realizowany w ramach laboratorium z Programowania aplikacji serwerowych i rozproszonych Java.
